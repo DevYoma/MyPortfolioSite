@@ -1,0 +1,51 @@
+html{
+    scroll-behavior: smooth;
+    transition: 5s ease;
+}
+
+body{
+    background: #1f2235;
+    font-family: cursive;
+    color: white;
+}
+
+/* .custom-navbar{
+
+} */
+
+.custom-home{
+    height: 90vh;
+}
+
+.custom-home-name{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.custom-about{
+    background: #424762;
+}
+
+.about-button{
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+/* skill set */
+
+/* Portfolio */
+.custom-portfolio{
+    background: #424762;
+
+}
+
+/* social media */
+
+#social-media button{
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* Footer */
