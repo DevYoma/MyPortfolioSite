@@ -3,7 +3,7 @@ function myWhatsapp(){
 }
 
 function myFaceBook(){
-    location.href = "https://web.facebook.com/settings?tab=account&section=username";
+    location.href = "https://web.facebook.com/emore.ogheneyoma/";
 }
 
 function myTwitter(){
